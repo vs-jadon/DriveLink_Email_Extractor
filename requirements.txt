@@ -1,0 +1,6 @@
+pandas
+requests
+pyMuPDF
+python-docx
+openpyxl
+regex
